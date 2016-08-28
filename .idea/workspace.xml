@@ -185,6 +185,12 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="pinteresting2015">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
@@ -412,12 +418,12 @@
       <option name="presentableId" value="Default" />
       <updated>1426339622025</updated>
       <workItem from="1472209411341" duration="1451000" />
-      <workItem from="1472412379644" duration="586000" />
+      <workItem from="1472412379644" duration="1423000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2037000" />
+    <option name="totallyTimeSpent" value="2874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
